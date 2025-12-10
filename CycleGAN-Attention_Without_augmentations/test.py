@@ -1,6 +1,3 @@
-# IDs:
-# Yechiel Vaknin: 206242471
-# Zohar Zamir: 204646558
 
 #!/usr/bin/python3
 # test_full.py — generate outputs (A->B, B->A) + compute FID & MiFID
