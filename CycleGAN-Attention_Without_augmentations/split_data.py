@@ -1,6 +1,3 @@
-# IDs:
-# Yechiel Vaknin: 206242471
-# Zohar Zamir: 204646558
 
 # split_data.py
 # Prepare CycleGAN dataset structure (train/test and A/B) using command-line paths.
