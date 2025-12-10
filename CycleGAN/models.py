@@ -1,6 +1,3 @@
-# IDs:
-# Yechiel Vaknin: 206242471
-# Zohar Zamir: 204646558
 
 import torch.nn as nn
 import torch.nn.functional as F
